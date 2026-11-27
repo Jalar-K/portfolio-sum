@@ -27,5 +27,5 @@ Welcome to my digital portfolio showcasing web platforms, systems deployment, an
 
 | Campaign / Event Poster | Program / Brand Visual |
 | :---: | :---: |
-| ![Poster 1](posters/poster-1.png) | ![Poster 2](posters/poster-2.png) |
-| ![Poster 3](posters/poster-3.png) | ![Poster 4](posters/poster-4.png) |
+| ![Poster 1](HM-BBU1.png) | ![Poster 2](NW-BBU1.png) |
+| ![Poster 3](SS-BBU1.png) | ![Poster 4](UCB-BBU1.png) |
