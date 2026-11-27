@@ -2,7 +2,7 @@
 
 Welcome to my digital portfolio showcasing web platforms, systems deployment, and graphic design work.
 
-> **Note on Repositories:** Source code repositories for client and organizational projects are kept private to protect organizational security and intellectual property. Live production links, active development previews, and visual design samples are available directly below.
+> **Note on Repositories:** Source code repositories for client and organizational projects are kept private to protect organizational security and intellectual property. Below are Live production links, active development previews, and visual design samples are available directly below.
 
 ---
 
@@ -12,7 +12,7 @@ Welcome to my digital portfolio showcasing web platforms, systems deployment, an
   *Status: Live* | Full website deployment, Cloudflare hosting/DNS management, email routing, and ongoing IT administration.
 
 * **BBU1 (Litonu Business Base Universe)** — [bbu1.com](https://www.bbu1.com/en)  
-  *Status: Live* | Product development, user workflows, and digital marketing campaigns for an SME business management platform.
+  *Status: Live* | Product development, user workflows, and digital marketing campaigns for an SME business management platform, UI dev.
 
 ---
 
@@ -23,7 +23,7 @@ Welcome to my digital portfolio showcasing web platforms, systems deployment, an
 
 ---
 
-## Posters & Graphic Design
+## RECENT Posters & Graphic Design
 
 | Campaign / Event Poster | Program / Brand Visual |
 | :---: | :---: |
